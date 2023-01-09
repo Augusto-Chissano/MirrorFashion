@@ -1,0 +1,54 @@
+.sacola {
+    background-image: url(../img/sacola.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+
+    font-size: 14px;
+    padding-right: 35px;
+    text-align: center;
+    width: 140px;
+    padding-top: 8px;
+    margin-bottom: 50px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.menu-opcoes{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.menu-opcoes ul {
+    font-size: 15px;
+}
+
+.menu-opcoes a{
+    color: #003366;
+}
+
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 20px;
+}
+
+.menu-opcoes a{
+    text-decoration: none;
+    
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.watsapp{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+header{
+    position: relative;
+}
+
